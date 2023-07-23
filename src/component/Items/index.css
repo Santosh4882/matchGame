@@ -1,0 +1,9 @@
+.thumbnail {
+  width: 140px;
+  height: 140px;
+}
+
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
